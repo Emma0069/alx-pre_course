@@ -1,1 +1,1 @@
-Folder containing project files for git
+Folder containing project files for the git project
